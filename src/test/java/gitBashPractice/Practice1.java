@@ -6,6 +6,7 @@ public class Practice1 {
 		
 		System.out.println("Hello");
 		System.out.println("First Update");
+		System.out.println("Second Update");
 	}
 
 }
